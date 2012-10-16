@@ -1,4 +1,6 @@
 java-collaboration-1
 ====================
 
-First Collaboration In Java. Topic is undecided yet.
+This is our first collaboration in Java. 
+The topic is undecided yet.
+This will have more information once the collaboration has started.
